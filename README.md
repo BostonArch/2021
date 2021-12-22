@@ -1,8 +1,8 @@
-# BARC 2021
+# BARC 2022
 
-12th Annual Boston Area Architecture Workshop
+13th Annual Boston Area Architecture Workshop
 
-January 29, 2021
+January 28, 2021
 
 Bringing together computer architecture community in the Greater Boston area and beyond.
 
